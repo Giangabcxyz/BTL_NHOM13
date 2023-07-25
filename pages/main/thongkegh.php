@@ -56,7 +56,7 @@ tr:hover {background-color: #D6EEEE;}
               }?>
                    <tr>
                           <td colspan="6">Tổng tiên :<?php  echo $tongtien ?></td>
-                          <td colspan="1"><a style="color:black; ext-decoration: none;" href="pages/main/giohang.php?xoatatca=1">Xóa tất cả</a></td>
+                          <td colspan="1"><a style="color:black; text-decoration: none;" href="pages/main/giohang.php?xoatatca=1">Xóa tất cả</a></td>
                    </tr>
               <?php 
               }else{
