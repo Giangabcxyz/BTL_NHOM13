@@ -1,5 +1,6 @@
 <div class="main">
-		   <div class="bran_box">
+       
+		   <div class="companyMenu  flexContain group">
               <?php
                   $i=0;
                   $sql_lk = "SELECT *FROM hangsx ";
@@ -39,7 +40,7 @@
                 </div>
            </div>
 	
-		<div class="products">
+		<div class="products" >
                <?php 
                         include("sanpham/main.php");
                ?>

@@ -1,3 +1,21 @@
+<style>
+    .page-gt {
+	width: 80%;
+	margin: 50px 0 450px 100px;
+}
+
+.page-header {
+	height: 40px;
+	background: pink;
+	line-height: 40px;
+	padding-left: 10px;
+}
+
+.page-info {
+	font-size: 15px;
+	margin-top: 20px;
+}
+    </style>
 <div class="page-gt">
             <h4 class="page-header">
                 Giới thiệu

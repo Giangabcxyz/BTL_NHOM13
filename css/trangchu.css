@@ -1,5 +1,10 @@
 .companyMenu {
 	margin: 10px 0 30px; 
+	flex-wrap: wrap;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .companyMenu a {
